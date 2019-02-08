@@ -1,0 +1,200 @@
+total 4
+drwxr-xr-x. 20 root   root        3980 Feb  7 19:55 .
+dr-xr-xr-x. 18 root   root        4096 Oct 24 16:58 ..
+crw-------.  1 root   root     10, 175 Feb  7 19:51 agpgart
+crw-r--r--.  1 root   root     10, 235 Feb  7 19:51 autofs
+drwxr-xr-x.  2 root   root         220 Feb  7 19:55 block
+drwxr-xr-x.  2 root   root         100 Feb  7 19:51 bsg
+crw-------.  1 root   root     10, 234 Feb  7 19:51 btrfs-control
+drwxr-xr-x.  3 root   root          60 Feb  7 19:51 bus
+lrwxrwxrwx.  1 root   root           3 Feb  7 19:51 cdrom -> sr0
+drwxr-xr-x.  2 root   root        3600 Feb  7 19:51 char
+crw-------.  1 root   root      5,   1 Feb  7 19:51 console
+lrwxrwxrwx.  1 root   root          11 Feb  7 19:51 core -> /proc/kcore
+drwxr-xr-x.  3 root   root          60 Feb  7 19:51 cpu
+crw-------.  1 root   root     10,  62 Feb  7 19:51 cpu_dma_latency
+crw-------.  1 root   root     10, 203 Feb  7 19:51 cuse
+drwxr-xr-x.  8 root   root         160 Feb  7 19:55 disk
+brw-rw----.  1 root   disk    253,   0 Feb  7 19:51 dm-0
+brw-rw----.  1 root   disk    253,   1 Feb  7 19:51 dm-1
+crw-rw----+  1 root   audio    14,   9 Feb  7 19:51 dmmidi
+drwxr-xr-x.  3 root   root         100 Feb  7 19:51 dri
+crw-rw----.  1 root   video    29,   0 Feb  7 19:51 fb0
+lrwxrwxrwx.  1 root   root          13 Feb  7 19:51 fd -> /proc/self/fd
+drwxr-xr-x.  2 root   root          80 Feb  7 19:51 fedora
+crw-rw-rw-.  1 root   root      1,   7 Feb  7 19:51 full
+crw-rw-rw-.  1 root   root     10, 229 Feb  7 19:51 fuse
+crw-------.  1 root   root    242,   0 Feb  7 19:51 hidraw0
+crw-------.  1 root   root     10, 228 Feb  7 19:51 hpet
+drwxr-xr-x.  3 root   root           0 Feb  7 19:51 hugepages
+crw-------.  1 root   root     10, 183 Feb  7 19:51 hwrng
+lrwxrwxrwx.  1 root   root          12 Feb  7 19:51 initctl -> /run/initctl
+drwxr-xr-x.  4 root   root         260 Feb  7 19:51 input
+crw-r--r--.  1 root   root      1,  11 Feb  7 19:51 kmsg
+lrwxrwxrwx.  1 root   root          28 Feb  7 19:51 log -> /run/systemd/journal/dev-log
+crw-rw----.  1 root   disk     10, 237 Feb  7 19:51 loop-control
+crw-rw----.  1 root   lp        6,   0 Feb  7 19:51 lp0
+crw-rw----.  1 root   lp        6,   1 Feb  7 19:51 lp1
+crw-rw----.  1 root   lp        6,   2 Feb  7 19:51 lp2
+crw-rw----.  1 root   lp        6,   3 Feb  7 19:51 lp3
+drwxr-xr-x.  2 root   root         100 Feb  7 19:51 mapper
+crw-------.  1 root   root     10, 227 Feb  7 19:51 mcelog
+crw-r-----.  1 root   kmem      1,   1 Feb  7 19:51 mem
+crw-------.  1 root   root     10,  59 Feb  7 19:51 memory_bandwidth
+crw-rw----+  1 root   audio    14,   2 Feb  7 19:51 midi
+drwxrwxrwt.  2 root   root          40 Feb  7 19:51 mqueue
+drwxr-xr-x.  2 root   root          60 Feb  7 19:51 net
+crw-------.  1 root   root     10,  61 Feb  7 19:51 network_latency
+crw-------.  1 root   root     10,  60 Feb  7 19:51 network_throughput
+crw-rw-rw-.  1 root   root      1,   3 Feb  7 19:51 null
+crw-------.  1 root   root     10, 144 Feb  7 19:51 nvram
+crw-r-----.  1 root   kmem      1,   4 Feb  7 19:51 port
+crw-------.  1 root   root    108,   0 Feb  7 19:51 ppp
+crw-rw-rw-.  1 root   tty       5,   2 Feb  7 20:05 ptmx
+drwxr-xr-x.  2 root   root           0 Feb  7 19:51 pts
+crw-rw-rw-.  1 root   root      1,   8 Feb  7 19:51 random
+drwxr-xr-x.  2 root   root          60 Feb  7 19:51 raw
+crw-rw-r--+  1 root   root     10,  57 Feb  7 19:51 rfkill
+lrwxrwxrwx.  1 root   root           4 Feb  7 19:51 rtc -> rtc0
+crw-------.  1 root   root    249,   0 Feb  7 19:51 rtc0
+brw-rw----.  1 root   disk      8,   0 Feb  7 19:51 sda
+brw-rw----.  1 root   disk      8,   1 Feb  7 19:51 sda1
+brw-rw----.  1 root   disk      8,   2 Feb  7 19:51 sda2
+brw-rw----.  1 root   disk      8,  16 Feb  7 19:55 sdb
+brw-rw----.  1 root   disk      8,  17 Feb  7 19:55 sdb1
+brw-rw----.  1 root   disk      8,  18 Feb  7 19:55 sdb2
+crw-rw----+  1 root   cdrom    21,   0 Feb  7 19:51 sg0
+crw-rw----.  1 root   disk     21,   1 Feb  7 19:51 sg1
+crw-rw----.  1 root   disk     21,   2 Feb  7 19:51 sg2
+drwxrwxrwt.  2 root   root          40 Feb  7 19:52 shm
+crw-------.  1 root   root     10, 231 Feb  7 19:51 snapshot
+drwxr-xr-x.  3 root   root         200 Feb  7 19:51 snd
+brw-rw----+  1 root   cdrom    11,   0 Feb  7 19:51 sr0
+lrwxrwxrwx.  1 root   root          15 Feb  7 19:51 stderr -> /proc/self/fd/2
+lrwxrwxrwx.  1 root   root          15 Feb  7 19:51 stdin -> /proc/self/fd/0
+lrwxrwxrwx.  1 root   root          15 Feb  7 19:51 stdout -> /proc/self/fd/1
+crw-rw-rw-.  1 root   tty       5,   0 Feb  7 19:52 tty
+crw--w----.  1 root   tty       4,   0 Feb  7 19:51 tty0
+crw--w----.  1 root   tty       4,   1 Feb  7 19:51 tty1
+crw--w----.  1 root   tty       4,  10 Feb  7 19:51 tty10
+crw--w----.  1 root   tty       4,  11 Feb  7 19:51 tty11
+crw--w----.  1 root   tty       4,  12 Feb  7 19:51 tty12
+crw--w----.  1 root   tty       4,  13 Feb  7 19:51 tty13
+crw--w----.  1 root   tty       4,  14 Feb  7 19:51 tty14
+crw--w----.  1 root   tty       4,  15 Feb  7 19:51 tty15
+crw--w----.  1 root   tty       4,  16 Feb  7 19:51 tty16
+crw--w----.  1 root   tty       4,  17 Feb  7 19:51 tty17
+crw--w----.  1 root   tty       4,  18 Feb  7 19:51 tty18
+crw--w----.  1 root   tty       4,  19 Feb  7 19:51 tty19
+crw--w----.  1 nsaini tty       4,   2 Feb  7 19:51 tty2
+crw--w----.  1 root   tty       4,  20 Feb  7 19:51 tty20
+crw--w----.  1 root   tty       4,  21 Feb  7 19:51 tty21
+crw--w----.  1 root   tty       4,  22 Feb  7 19:51 tty22
+crw--w----.  1 root   tty       4,  23 Feb  7 19:51 tty23
+crw--w----.  1 root   tty       4,  24 Feb  7 19:51 tty24
+crw--w----.  1 root   tty       4,  25 Feb  7 19:51 tty25
+crw--w----.  1 root   tty       4,  26 Feb  7 19:51 tty26
+crw--w----.  1 root   tty       4,  27 Feb  7 19:51 tty27
+crw--w----.  1 root   tty       4,  28 Feb  7 19:51 tty28
+crw--w----.  1 root   tty       4,  29 Feb  7 19:51 tty29
+crw--w----.  1 root   tty       4,   3 Feb  7 19:51 tty3
+crw--w----.  1 root   tty       4,  30 Feb  7 19:51 tty30
+crw--w----.  1 root   tty       4,  31 Feb  7 19:51 tty31
+crw--w----.  1 root   tty       4,  32 Feb  7 19:51 tty32
+crw--w----.  1 root   tty       4,  33 Feb  7 19:51 tty33
+crw--w----.  1 root   tty       4,  34 Feb  7 19:51 tty34
+crw--w----.  1 root   tty       4,  35 Feb  7 19:51 tty35
+crw--w----.  1 root   tty       4,  36 Feb  7 19:51 tty36
+crw--w----.  1 root   tty       4,  37 Feb  7 19:51 tty37
+crw--w----.  1 root   tty       4,  38 Feb  7 19:51 tty38
+crw--w----.  1 root   tty       4,  39 Feb  7 19:51 tty39
+crw--w----.  1 root   tty       4,   4 Feb  7 19:51 tty4
+crw--w----.  1 root   tty       4,  40 Feb  7 19:51 tty40
+crw--w----.  1 root   tty       4,  41 Feb  7 19:51 tty41
+crw--w----.  1 root   tty       4,  42 Feb  7 19:51 tty42
+crw--w----.  1 root   tty       4,  43 Feb  7 19:51 tty43
+crw--w----.  1 root   tty       4,  44 Feb  7 19:51 tty44
+crw--w----.  1 root   tty       4,  45 Feb  7 19:51 tty45
+crw--w----.  1 root   tty       4,  46 Feb  7 19:51 tty46
+crw--w----.  1 root   tty       4,  47 Feb  7 19:51 tty47
+crw--w----.  1 root   tty       4,  48 Feb  7 19:51 tty48
+crw--w----.  1 root   tty       4,  49 Feb  7 19:51 tty49
+crw--w----.  1 root   tty       4,   5 Feb  7 19:51 tty5
+crw--w----.  1 root   tty       4,  50 Feb  7 19:51 tty50
+crw--w----.  1 root   tty       4,  51 Feb  7 19:51 tty51
+crw--w----.  1 root   tty       4,  52 Feb  7 19:51 tty52
+crw--w----.  1 root   tty       4,  53 Feb  7 19:51 tty53
+crw--w----.  1 root   tty       4,  54 Feb  7 19:51 tty54
+crw--w----.  1 root   tty       4,  55 Feb  7 19:51 tty55
+crw--w----.  1 root   tty       4,  56 Feb  7 19:51 tty56
+crw--w----.  1 root   tty       4,  57 Feb  7 19:51 tty57
+crw--w----.  1 root   tty       4,  58 Feb  7 19:51 tty58
+crw--w----.  1 root   tty       4,  59 Feb  7 19:51 tty59
+crw--w----.  1 root   tty       4,   6 Feb  7 19:51 tty6
+crw--w----.  1 root   tty       4,  60 Feb  7 19:51 tty60
+crw--w----.  1 root   tty       4,  61 Feb  7 19:51 tty61
+crw--w----.  1 root   tty       4,  62 Feb  7 19:51 tty62
+crw--w----.  1 root   tty       4,  63 Feb  7 19:51 tty63
+crw--w----.  1 root   tty       4,   7 Feb  7 19:51 tty7
+crw--w----.  1 root   tty       4,   8 Feb  7 19:51 tty8
+crw--w----.  1 root   tty       4,   9 Feb  7 19:51 tty9
+crw-rw----.  1 root   dialout   4,  64 Feb  7 19:51 ttyS0
+crw-rw----.  1 root   dialout   4,  65 Feb  7 19:51 ttyS1
+crw-rw----.  1 root   dialout   4,  74 Feb  7 19:51 ttyS10
+crw-rw----.  1 root   dialout   4,  75 Feb  7 19:51 ttyS11
+crw-rw----.  1 root   dialout   4,  76 Feb  7 19:51 ttyS12
+crw-rw----.  1 root   dialout   4,  77 Feb  7 19:51 ttyS13
+crw-rw----.  1 root   dialout   4,  78 Feb  7 19:51 ttyS14
+crw-rw----.  1 root   dialout   4,  79 Feb  7 19:51 ttyS15
+crw-rw----.  1 root   dialout   4,  80 Feb  7 19:51 ttyS16
+crw-rw----.  1 root   dialout   4,  81 Feb  7 19:51 ttyS17
+crw-rw----.  1 root   dialout   4,  82 Feb  7 19:51 ttyS18
+crw-rw----.  1 root   dialout   4,  83 Feb  7 19:51 ttyS19
+crw-rw----.  1 root   dialout   4,  66 Feb  7 19:51 ttyS2
+crw-rw----.  1 root   dialout   4,  84 Feb  7 19:51 ttyS20
+crw-rw----.  1 root   dialout   4,  85 Feb  7 19:51 ttyS21
+crw-rw----.  1 root   dialout   4,  86 Feb  7 19:51 ttyS22
+crw-rw----.  1 root   dialout   4,  87 Feb  7 19:51 ttyS23
+crw-rw----.  1 root   dialout   4,  88 Feb  7 19:51 ttyS24
+crw-rw----.  1 root   dialout   4,  89 Feb  7 19:51 ttyS25
+crw-rw----.  1 root   dialout   4,  90 Feb  7 19:51 ttyS26
+crw-rw----.  1 root   dialout   4,  91 Feb  7 19:51 ttyS27
+crw-rw----.  1 root   dialout   4,  92 Feb  7 19:51 ttyS28
+crw-rw----.  1 root   dialout   4,  93 Feb  7 19:51 ttyS29
+crw-rw----.  1 root   dialout   4,  67 Feb  7 19:51 ttyS3
+crw-rw----.  1 root   dialout   4,  94 Feb  7 19:51 ttyS30
+crw-rw----.  1 root   dialout   4,  95 Feb  7 19:51 ttyS31
+crw-rw----.  1 root   dialout   4,  68 Feb  7 19:51 ttyS4
+crw-rw----.  1 root   dialout   4,  69 Feb  7 19:51 ttyS5
+crw-rw----.  1 root   dialout   4,  70 Feb  7 19:51 ttyS6
+crw-rw----.  1 root   dialout   4,  71 Feb  7 19:51 ttyS7
+crw-rw----.  1 root   dialout   4,  72 Feb  7 19:51 ttyS8
+crw-rw----.  1 root   dialout   4,  73 Feb  7 19:51 ttyS9
+crw-------.  1 root   root     10, 239 Feb  7 19:51 uhid
+crw-------.  1 root   root     10, 223 Feb  7 19:51 uinput
+crw-rw-rw-.  1 root   root      1,   9 Feb  7 19:51 urandom
+crw-------.  1 root   root    243,   0 Feb  7 19:51 usbmon0
+crw-------.  1 root   root    243,   1 Feb  7 19:51 usbmon1
+crw-------.  1 root   root    243,   2 Feb  7 19:51 usbmon2
+crw-rw----.  1 root   tty       7,   0 Feb  7 19:51 vcs
+crw-rw----.  1 root   tty       7,   1 Feb  7 19:51 vcs1
+crw-rw----.  1 root   tty       7,   2 Feb  7 19:51 vcs2
+crw-rw----.  1 root   tty       7,   3 Feb  7 19:51 vcs3
+crw-rw----.  1 root   tty       7,   4 Feb  7 19:51 vcs4
+crw-rw----.  1 root   tty       7,   5 Feb  7 19:51 vcs5
+crw-rw----.  1 root   tty       7,   6 Feb  7 19:51 vcs6
+crw-rw----.  1 root   tty       7, 128 Feb  7 19:51 vcsa
+crw-rw----.  1 root   tty       7, 129 Feb  7 19:51 vcsa1
+crw-rw----.  1 root   tty       7, 130 Feb  7 19:51 vcsa2
+crw-rw----.  1 root   tty       7, 131 Feb  7 19:51 vcsa3
+crw-rw----.  1 root   tty       7, 132 Feb  7 19:51 vcsa4
+crw-rw----.  1 root   tty       7, 133 Feb  7 19:51 vcsa5
+crw-rw----.  1 root   tty       7, 134 Feb  7 19:51 vcsa6
+drwxr-xr-x.  2 root   root          60 Feb  7 19:51 vfio
+crw-------.  1 root   root     10,  63 Feb  7 19:51 vga_arbiter
+crw-------.  1 root   root     10, 137 Feb  7 19:51 vhci
+crw-------.  1 root   root     10, 238 Feb  7 19:51 vhost-net
+crw-------.  1 root   root     10, 241 Feb  7 19:51 vhost-vsock
+crw-------.  1 root   root     10,  58 Feb  7 19:51 vmci
+crw-------.  1 root   root     10,  56 Feb  7 19:51 vsock
+crw-rw-rw-.  1 root   root      1,   5 Feb  7 19:51 zero
